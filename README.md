@@ -2,7 +2,7 @@
 
 - 🧔 Desenvolvedor Web Júnior
 - 👔 Trabalhando atualmente com front-end e back-end
-- 🏆 Estudando VueJs - PHP - JavaScript
+- 🏆 Estudando Vue.js - PHP - JavaScript
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
