@@ -1,7 +1,7 @@
 ### Seja bem vindo, eu sou Eberson Ramos: 👋
 
 - 🧔 Desenvolvedor Web Júnior
-- 👔 Trabalhando com front-end e back-end
+- 👔 Trabalhando atualmente com front-end e back-end
 - 🏆 Estudando VueJs - PHP - JavaScript
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
