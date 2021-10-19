@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu perfil, eu sou Eberson Ramos: 👋
+### Seja bem vindo, eu sou Eberson Ramos: 👋
 
 - 🧔 Desenvolvedor Web Júnior
 - 👔 Trabalhando com front-end e back-end
