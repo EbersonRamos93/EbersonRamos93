@@ -1,9 +1,9 @@
-### Seja bem vindo, eu sou Eberson Ramos: 👋
+### Welcome, I'm Eberson Ramos: 👋
 
-- 🧔 Desenvolvedor Web Júnior
-- 👔 Trabalhando atualmente com front-end e back-end
-- 🏆 Estudando Vue.js - PHP - JavaScript
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🧔 Junior web developer
+- 👔 Working with frontend and backend
+- 🏆 Studying VueJs - PHP - JavaScript
+- 🎓 Academic training in Systems Analysis and Development
 
 <div>
   <a href="https://github.com/EbersonRamos93">  
