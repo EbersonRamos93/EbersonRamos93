@@ -5,6 +5,11 @@
 - 🏆 Studying VueJs - PHP - JavaScript
 - 🎓 Academic training in Systems Analysis and Development
 
+<div>
+  <a href="https://github.com/EbersonRamos93">  
+  <img height="180px" width="220px" src="https://github-readme-stats.vercel.app/api?username=EbersonRamos93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbersonRamos93&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
   
 <div style="display: inline_block"><br>
