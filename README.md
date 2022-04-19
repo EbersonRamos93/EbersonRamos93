@@ -1,9 +1,8 @@
 ### Welcome, I'm Eberson Ramos: 👋
 
-- 🧔 Junior web developer
-- 👔 Working with frontend and backend
-- 🏆 Studying VueJs - PHP - JavaScript
-- 🎓 Academic training in Systems Analysis and Development
+- 🧔 Full WEB developer
+- 👔 Working in projects as full-stack
+- 🎓 Finishing Systems Analysis and Development
 
 <div>
   <a href="https://github.com/EbersonRamos93">  
