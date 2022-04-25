@@ -2,7 +2,7 @@
 
 - 🧔 Full WEB developer
 - 👔 Working in projects as full-stack
-- 🎓 Finishing Systems Analysis and Development
+- 🎓 Graduated in systems analysis and development
 
 <div>
   <a href="https://github.com/EbersonRamos93">  
