@@ -28,7 +28,3 @@
 </div>
   
   ##
-  
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/EbersonRamos93/count.svg" alt="Visitor Count" align="center" />
-</p>
