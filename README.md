@@ -1,10 +1,6 @@
 ### Welcome, I'm Eberson Ramos: 👋
 
-- 🧔 Full WEB developer
-- 👔 Working in projects as full-stack
-- 🎓 Graduated in systems analysis and development
-
-
+Web developer at @SGBr.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Eber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
